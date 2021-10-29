@@ -28,11 +28,12 @@ img{
     text-decoration: none;
     color: black;
     text-transform: uppercase;
-    gap: 25px;
+    gap: 10px;
+    font-weight: bold;
 }
 .menu{
     display: flex;
-    gap: 10px;
+    gap: 30px;
 }
 .logo{
     text-decoration: none;
@@ -50,7 +51,7 @@ img{
 }
 .footer-social{
     text-decoration: none;
-    gap: 3rem;
+    gap: 30px;
 
 
 }
@@ -99,4 +100,10 @@ img{
     margin-top: 1rem;
     
     
+}
+.hero-image{
+    min-height: 50%;
+    width: 90%;
+    margin-top: auto;
+
 }
